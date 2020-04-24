@@ -16,3 +16,9 @@
 .row{
     height: 600px;
 }
+
+.innertextbox{
+    padding: 10%;
+    padding-top: 18%;
+    font-size: large;
+}
