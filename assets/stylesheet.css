@@ -14,11 +14,36 @@
 }
 
 .row{
-    height: 600px;
+    margin-bottom: 1%;
+    margin-top: 2%;
 }
 
 .innertextbox{
     padding: 10%;
     padding-top: 18%;
     font-size: large;
+}
+#namecolor{
+    color:  #ff8c1a
+    ;
+}
+.btn{
+    color:  white;
+    background-color:  #3399ff;
+}
+
+#portrait{
+    max-width: 140%;
+}
+
+    
+
+
+#golfapp{
+    max-width: 100%;
+}
+
+.bottombox{
+    margin: 0;
+    padding: 0;
 }
