@@ -47,3 +47,28 @@
     margin: 0;
     padding: 0;
 }
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  .cssimage{
+      width: 45%;
+  }
+  .node{
+      width: 110%;
+  }
+  .java{
+      width: 48%;
+  }
+
+  .language-rows{
+      margin-top: 1%;
+      margin-bottom: 8%;
+  }
+  .cpp{
+      width: 55%;
+  }
