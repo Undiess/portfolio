@@ -3,6 +3,9 @@
 .container-fluid{
     padding-left: 70px;
     padding-right: 70px;
+    padding-bottom: 30px;
+    border: 1px;
+    border-bottom-color: mediumblue;
 }
 .textbox{
     background-color: #f2f2f2
@@ -70,5 +73,16 @@
       margin-bottom: 8%;
   }
   .cpp{
-      width: 55%;
+      width: 52%;
+  }
+
+  .page-footer{
+      background-color: #3399ff;
+      height:5%;
+  }
+
+  .myfooter{
+      margin-left: 55px;
+      margin-right: 55px;
+      border-top: 1px solid grey;
   }
