@@ -86,3 +86,28 @@
       margin-right: 55px;
       border-top: 1px solid grey;
   }
+
+  .imagebackground{
+      background-image: url("cutcontac6.jpg");
+      background-color: #cccccc;
+      height: 600px;
+  }
+.getintouch{
+    padding-top: 110px;
+    text-align: left;
+    padding-left: 60px;
+    color: white;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+}
+.words{
+    color: white;
+    padding-left: 60px;
+}
+.form{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
